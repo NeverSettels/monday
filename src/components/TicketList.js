@@ -16,6 +16,16 @@ const masterTicketList = [
     names: 'Imani & Jacob',
     location: '9F',
     issue: 'Child component isn\'t rendering.'
+  },
+  {
+    names: 'Ivon & Alex',
+    location: '8n',
+    issue: 'Need their headshots'
+  },
+  {
+    names: 'Eric and Tony and Noah',
+    location: '3d',
+    issue: 'what do next'
   }
 ];
 
