@@ -9,7 +9,7 @@ class TicketControl extends React.Component {
     this.state = {
       formVisibleOnPage: false
     };
-    this.handleClick = this.handleClick.bind(this);
+    this.handleClick = this.handleClick.bind(this); // Only needed for binding if an arrow function isnt used
   }
   handleClick = () => {
     this.setState(prevState => ({
